@@ -1,0 +1,56 @@
+README.md:
+  1: Command -v git-lfs >/dev/null 2>&1 || { echo >&2 "\nThis repository is configured for Git LFS but 'git-lfs' was not found on your path. If you no longer wish to use Git LFS, remove this hook by deleting '.git/hooks/post-merge'.\n"; exit 2; }
+  2  
+
+Roblox:
+   1: local platform = script. Parent
+   2  --make the part disappear
+   3: • local function disappear platform.CanCollide = platform. Transparency
+   4  false
+
+   7  --make the part reappear
+   8: • local function appear)
+   9: platform.CanCollide = true
+  10: platform. Transparency = 0
+  11  end
+  12: -Create a loop to make the part disappear and reappear in real time
+  13  • while true do wait (3)
+
+Roblox of Sai:
+  1: echo "# Roblox-of-Sai-" >> README.md
+  2  git init
+  3  git add README.md
+  4: git commit -m "first commit"
+  5: git branch -M main
+  6: git remote add origin https://github.com/Saimithuncharan/Roblox-of-Sai-.git
+  7  git push -u origin main
+  8  saimithun was a very youse full man .j mf
+  9: saimufg erh vfgnfj wv vcndsjrtsauj
+
+Roblox of sai 13:
+  1: local part =instance.new ("part) 
+  2: part .parent =game.workspace 
+  3: part.size = vector3 .new(4,1,2)
+  4: part.position = vector3.new(0, 10, 0)
+  5: part.Brickcolor = Brickcolor.new("Bright red")
+  6  part.Name = "Roblox of sai"
+
+Sai:
+   1: next: /resources/the-mystery-of-duvall-drive/designing-dark-soundscapes
+   2: prev: /resources/the-mystery-of-duvall-drive/streaming-in-immersion
+   3: description: Explains the environmental design concepts used in The Mystery of Duvall Drive.
+   4: …is section, we'll demonstrate how we determined what type of movement we wanted to create in Studio, and what tools we…
+   5: <img src="../../assets/resources/mystery-of-duvall-drive/streaming-in-immersion/perspective-house.png" width="100%" />
+   6  …erations before we settled on what is live in The Mystery of Duvall Drive. Early on, we thought about the storm as a g…
+   7: - The storm should give players a sense of the **impact of this event on the world**, including trees blowing and debri…
+   8: - The spinning vortex of the cloud themselves should give players a peek at the central portal **without revealing ever…
+   9: Show 92 more matches
+  10  
+  11  
+  12: Roblox/react-lua · modules/react-reconciler/src/ReactFiberLane.lua
+
+Sai pro:
+  1: saimithun x v kaguiaejk saufjn viueh djgbedekb kdvbvbucv. eg kgjkejhure. ekbg bg 
+  2: bfdbdm ndsjgjke sai mithun sagberjh cdgdsvv eg j njdsccb fhrtahhhtrfh nfj
+  3: Command -v git-lfs >/dev/null 2>&1 || { echo >&2 "\nThis repository is configured for Git LFS but 'git-lfs' was not found on your path. If you no longer wish to use Git LF.  rwrvdn
+
