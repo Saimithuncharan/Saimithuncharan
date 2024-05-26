@@ -1,0 +1,29 @@
+Command -v git-lfs >/dev/null 2>&1 || { echo >&2 "\nThis repository is configured for Git LFS but 'git-lfs' was not found on your path. If you no longer wish to use Git LFS, remove this hook by deleting '.git/hooks/post-merge'.\n"; exit 2; }
+  2  
+
+Roblox:
+   1: local platform = script. Parent
+   2  --make the part disappear
+   3: • local function disappear platform.CanCollide = platform. Transparency
+   4  false
+
+   7  --make the part reappear
+   8: • local function appear)
+   9: platform.CanCollide = true
+  10: platform. Transparency = 0
+  11  end
+  12: -Create a loop to make the part disappear and reappear in real time
+  13  • while true do wait (3)
+
+Roblox of Sai:
+  1: echo "# Roblox-of-Sai-" >> README.md
+  2  git init
+  3  git add README.md
+  4: git commit -m "first commit"
+  5: git branch -M main
+  6: git remote add origin https://github.com/Saimithuncharan/Roblox-of-Sai-.git
+  7  git push -u origin main
+  8  saimithun was a very youse full man .j mf
+  9: saimufg erh vfgnfj wv vcndsjrtsauj
+0 comments on commit ddecec6
+Comment
